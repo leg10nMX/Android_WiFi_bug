@@ -160,17 +160,7 @@ public class WifiConnectionReceiver extends BroadcastReceiver {
             boolean bound = cm.bindProcessToNetwork(foundNetwork);
             Log.d(LOG_TAG, "bindProcessToNetwork returns " + bound);
 
-            // Android 9 on some phones has issues with this check
             if (Build.VERSION.SDK_INT < 28) {
-                // On some devices the returned result from bindProcessToNetwork doesn't
-                // reflect real bound status, say the result is not reliable enough.
-                // Specifically, successful bound may return false, and
-                // failed bound may return true. Actually there is a logcat output that
-                // indicates if the bind was eventually successful or not. something like this:
-                // 05-04 13:47:18.021 16998-17161/com.aylanetworks.agilelink V/NetdClient: setNetworkForSocket: netId=133, socketFd=103
-                // Because of this, we'll wait up to 5 seconds for the bound network becomes
-                // active, otherwise succeeding network calls, such as fetchDeviceDetail(), may
-                // end up with network error, TimeoutError e.g.
                 long MAX_TIME = TimeUnit.NANOSECONDS.convert(5, TimeUnit.SECONDS);
                 long start = System.nanoTime();
                 while (!foundNetwork.equals(cm.getActiveNetwork()) &&
