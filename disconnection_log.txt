@@ -1,0 +1,241 @@
+2018-10-16 15:52:23.323 12606-12606/? D/wpa_supplicant: nl80211: Drv Event 103 (NL80211_CMD_VENDOR) received for wlan0
+2018-10-16 15:52:23.324 12606-12606/? D/wpa_supplicant: nl80211: Vendor event: wiphy=0 vendor_id=0x1374 subcmd=10
+2018-10-16 15:52:23.326 12606-12606/? D/wpa_supplicant: wlan0: Event AVOID_FREQUENCIES (48) received
+2018-10-16 15:52:23.327 12606-12606/? I/wpa_supplicant: wlan0: CTRL-EVENT-AVOID-FREQ ranges=2412-2437,2457-2472,5180-5260
+2018-10-16 15:52:23.327 12606-12606/? D/wpa_supplicant: wlan0: Determining shared radio frequencies (max len 2)
+2018-10-16 15:52:23.327 12606-12606/? D/wpa_supplicant: wlan0: Shared frequencies (len=1): completed iteration
+2018-10-16 15:52:23.327 12606-12606/? D/wpa_supplicant: wlan0: freq[0]: 2422, flags=0x1
+2018-10-16 15:52:23.327 12606-12606/? D/wpa_supplicant: P2P: Update channel list
+2018-10-16 15:52:23.328 12606-12606/? D/wpa_supplicant: P2P: channels: 81:7,8,9 124:149,153,157,161 125:149,153,157,161,165 126:149,157 127:153,161
+2018-10-16 15:52:23.328 12606-12606/? D/wpa_supplicant: P2P: cli_channels:
+2018-10-16 15:52:47.934 12606-12606/? D/wpa_supplicant: nl80211: Drv Event 103 (NL80211_CMD_VENDOR) received for wlan0
+2018-10-16 15:52:47.934 12606-12606/? D/wpa_supplicant: nl80211: Vendor event: wiphy=0 vendor_id=0x1374 subcmd=10
+2018-10-16 15:52:47.937 12606-12606/? D/wpa_supplicant: wlan0: Event AVOID_FREQUENCIES (48) received
+2018-10-16 15:52:47.937 12606-12606/? I/wpa_supplicant: wlan0: CTRL-EVENT-AVOID-FREQ ranges=2412-2437,2457-2472,5180
+2018-10-16 15:52:47.937 12606-12606/? D/wpa_supplicant: wlan0: Determining shared radio frequencies (max len 2)
+2018-10-16 15:52:47.937 12606-12606/? D/wpa_supplicant: wlan0: Shared frequencies (len=1): completed iteration
+2018-10-16 15:52:47.937 12606-12606/? D/wpa_supplicant: wlan0: freq[0]: 2422, flags=0x1
+2018-10-16 15:52:47.938 12606-12606/? D/wpa_supplicant: P2P: Update channel list
+2018-10-16 15:52:47.938 12606-12606/? D/wpa_supplicant: P2P: channels: 81:7,8,9 115:40,44,48 116:44 117:48 124:149,153,157,161 125:149,153,157,161,165 126:149,157 127:153,161 130:40,44,48
+2018-10-16 15:52:47.938 12606-12606/? D/wpa_supplicant: P2P: cli_channels:
+2018-10-16 15:52:50.102 12606-12606/? D/wpa_supplicant: nl80211: Drv Event 33 (NL80211_CMD_TRIGGER_SCAN) received for wlan0
+2018-10-16 15:52:50.102 12606-12606/? D/wpa_supplicant: wlan0: nl80211: Scan trigger
+2018-10-16 15:52:50.102 12606-12606/? D/wpa_supplicant: wlan0: Event SCAN_STARTED (47) received
+2018-10-16 15:52:50.102 12606-12606/? D/wpa_supplicant: wlan0: External program started a scan
+2018-10-16 15:52:50.623 12606-12606/? D/wpa_supplicant: nl80211: Drv Event 103 (NL80211_CMD_VENDOR) received for wlan0
+2018-10-16 15:52:50.623 12606-12606/? D/wpa_supplicant: nl80211: Vendor event: wiphy=0 vendor_id=0x1374 subcmd=10
+2018-10-16 15:52:50.626 12606-12606/? D/wpa_supplicant: wlan0: Event AVOID_FREQUENCIES (48) received
+2018-10-16 15:52:50.626 12606-12606/? I/wpa_supplicant: wlan0: CTRL-EVENT-AVOID-FREQ ranges=
+2018-10-16 15:52:50.626 12606-12606/? D/wpa_supplicant: wlan0: Determining shared radio frequencies (max len 2)
+2018-10-16 15:52:50.626 12606-12606/? D/wpa_supplicant: wlan0: Shared frequencies (len=1): completed iteration
+2018-10-16 15:52:50.626 12606-12606/? D/wpa_supplicant: wlan0: freq[0]: 2422, flags=0x1
+2018-10-16 15:52:50.626 12606-12606/? D/wpa_supplicant: P2P: Update channel list
+2018-10-16 15:52:50.626 12606-12606/? D/wpa_supplicant: P2P: channels: 81:1,2,3,4,5,6,7,8,9,10,11,12,13 115:36,40,44,48 116:36,44 117:40,48 124:149,153,157,161 125:149,153,157,161,165 126:149,157 127:153,161 128:36,40,44,48 130:36,40,44,48
+2018-10-16 15:52:50.627 12606-12606/? D/wpa_supplicant: P2P: cli_channels:
+2018-10-16 15:52:52.881 12606-12606/? D/wpa_supplicant: nl80211: Drv Event 34 (NL80211_CMD_NEW_SCAN_RESULTS) received for wlan0
+2018-10-16 15:52:52.881 12606-12606/? D/wpa_supplicant: wlan0: nl80211: New scan results available
+2018-10-16 15:52:52.882 12606-12606/? D/wpa_supplicant: nl80211: Scan included frequencies: 2412 2417 2422 2427 2432 2437 2442 2447 2452 2457 2462 2467 2472 5180 5200 5220 5240 5260 5280 5300 5320 5500 5520 5540 5560 5580 5600 5620 5640 5660 5680 5700 5720 5745 5765 5785 5805 5825
+2018-10-16 15:52:52.882 12606-12606/? D/wpa_supplicant: wlan0: Event SCAN_RESULTS (3) received
+2018-10-16 15:52:52.882 12606-12606/? D/wpa_supplicant: nl80211: Received scan results (13 BSSes)
+2018-10-16 15:52:52.882 12606-12606/? D/wpa_supplicant: nl80211: Scan results indicate BSS status with 60:f1:89:d8:64:58 as associated
+2018-10-16 15:52:52.883 12606-12606/? D/wpa_supplicant: wlan0: BSS: Start scan result update 3300
+2018-10-16 15:52:52.883 12606-12606/? D/wpa_supplicant: wlan0: BSS: Add new id 10042 BSSID 2c:dd:95:ce:74:75 SSID 'INFINITUMFC1B_2.4' freq 2437
+2018-10-16 15:52:52.883 12606-12606/? D/wpa_supplicant: wlan0: BSS: Add new id 10043 BSSID c8:d9:d2:4a:42:bb SSID 'DIRECT-BA-HP DeskJet 2600 series' freq 2437
+2018-10-16 15:52:52.883 12606-12606/? D/wpa_supplicant: BSS: last_scan_res_used=13/64
+2018-10-16 15:52:52.883 12606-12606/? D/wpa_supplicant: wlan0: New scan results available (own=0 ext=1)
+2018-10-16 15:52:52.884 12606-12606/? D/wpa_supplicant: wlan0: Do not use results from externally requested scan operation for network selection
+2018-10-16 15:52:52.884 12606-12606/? D/wpa_supplicant: p2p0: Updating scan results from sibling
+2018-10-16 15:52:52.884 12606-12606/? D/wpa_supplicant: nl80211: Received scan results (13 BSSes)
+2018-10-16 15:52:52.884 12606-12606/? D/wpa_supplicant: p2p0: BSS: Start scan result update 3300
+2018-10-16 15:52:52.884 12606-12606/? D/wpa_supplicant: p2p0: BSS: Add new id 10393 BSSID 2c:dd:95:ce:74:75 SSID 'INFINITUMFC1B_2.4' freq 2437
+2018-10-16 15:52:52.885 12606-12606/? D/wpa_supplicant: p2p0: BSS: Add new id 10394 BSSID c8:d9:d2:4a:42:bb SSID 'DIRECT-BA-HP DeskJet 2600 series' freq 2437
+2018-10-16 15:52:52.885 12606-12606/? D/wpa_supplicant: BSS: last_scan_res_used=13/64
+2018-10-16 15:52:52.885 12606-12606/? D/wpa_supplicant: p2p0: New scan results available (own=0 ext=1)
+2018-10-16 15:52:52.885 12606-12606/? D/wpa_supplicant: p2p0: Do not use results from externally requested scan operation for network selection
+2018-10-16 15:52:52.885 12606-12606/? D/wpa_supplicant: wlan0: Control interface command 'SCAN_RESULTS'
+2018-10-16 15:52:52.890 12606-12606/? D/wpa_supplicant: wlan0: Control interface command 'SCAN_RESULTS'
+2018-10-16 15:52:52.893 12606-12606/? I/chatty: uid=1010(wifi) /vendor/bin/hw/wpa_supplicant identical 1 line
+2018-10-16 15:52:52.896 12606-12606/? D/wpa_supplicant: wlan0: Control interface command 'SCAN_RESULTS'
+2018-10-16 15:52:52.928 1502-1866/? D/SupplicantStaIfaceHal: connectToNetwork "The Shire"-WPA_PSK
+2018-10-16 15:52:52.930 12606-12606/? D/wpa_supplicant: Deregistering network from hidl control: 0
+2018-10-16 15:52:52.931 12606-12606/? E/wpa_supplicant: eap_proxy: eap_proxy_notify_config
+2018-10-16 15:52:52.931 12606-12606/? D/wpa_supplicant: wlan0: Request to deauthenticate - bssid=60:f1:89:d8:64:58 pending_bssid=00:00:00:00:00:00 reason=3 state=COMPLETED
+2018-10-16 15:52:52.932 12606-12606/? D/wpa_supplicant: TDLS: Tear down peers
+2018-10-16 15:52:52.932 12606-12606/? D/wpa_supplicant: wpa_driver_nl80211_disconnect(reason_code=3)
+2018-10-16 15:52:52.963 12606-12606/? D/wpa_supplicant: wlan0: Event DEAUTH (12) received
+2018-10-16 15:52:52.965 12606-12606/? D/wpa_supplicant: wlan0: Deauthentication notification
+2018-10-16 15:52:52.965 12606-12606/? D/wpa_supplicant: wlan0:  * reason 3 (locally generated)
+2018-10-16 15:52:52.965 12606-12606/? D/wpa_supplicant: Deauthentication frame IE(s) - hexdump(len=0): [NULL]
+2018-10-16 15:52:52.965 12606-12606/? I/wpa_supplicant: wlan0: CTRL-EVENT-DISCONNECTED bssid=60:f1:89:d8:64:58 reason=3 locally_generated=1
+2018-10-16 15:52:52.966 12606-12606/? D/wpa_supplicant: wpa_supplicant_event_disassoc_finish: wpa_s->ap_wapi_ie_len=0	wpa_s->assoc_wapi_ie_len =0
+2018-10-16 15:52:52.966 12606-12606/? D/wpa_supplicant: wlan0: Auto connect disabled: do not try to re-connect
+2018-10-16 15:52:52.967 12606-12606/? D/wpa_supplicant: wlan0: Ignore connection failure due to local request to disconnect
+2018-10-16 15:52:52.967 12606-12606/? D/wpa_supplicant: TDLS: Remove peers on disassociation
+2018-10-16 15:52:52.967 12606-12606/? D/wpa_supplicant: wlan0: WPA: Clear old PMK and PTK
+2018-10-16 15:52:52.967 12606-12606/? D/wpa_supplicant: Notifying disconnect reason to hidl control: -3
+2018-10-16 15:52:52.968 12606-12606/? D/wpa_supplicant: nl80211: Data frame filter flags=0x0
+2018-10-16 15:52:52.968 12606-12606/? E/wpa_supplicant: nl80211: Failed to open /proc/sys/net/ipv4/conf/wlan0/drop_unicast_in_l2_multicast: No such file or directory
+2018-10-16 15:52:52.968 12606-12606/? E/wpa_supplicant: nl80211: Failed to set IPv4 unicast in multicast filter
+2018-10-16 15:52:52.968 12606-12606/? D/wpa_supplicant: wlan0: State: COMPLETED -> DISCONNECTED
+2018-10-16 15:52:52.968 12606-12606/? D/wpa_supplicant: nl80211: Set wlan0 operstate 1->0 (DORMANT)
+2018-10-16 15:52:52.968 12606-12606/? D/wpa_supplicant: netlink: Operstate: ifindex=23 linkmode=-1 (no change), operstate=5 (IF_OPER_DORMANT)
+2018-10-16 15:52:52.969 12606-12606/? D/wpa_supplicant: Notifying state change event to hidl control: DISCONNECTED
+2018-10-16 15:52:52.970 12606-12606/? D/wpa_supplicant: wlan0: Determining shared radio frequencies (max len 2)
+2018-10-16 15:52:52.971 12606-12606/? D/wpa_supplicant: wlan0: Shared frequencies (len=0): completed iteration
+2018-10-16 15:52:52.971 12606-12606/? D/wpa_supplicant: P2P: Update channel list
+2018-10-16 15:52:52.971 12606-12606/? D/wpa_supplicant: P2P: channels: 81:1,2,3,4,5,6,7,8,9,10,11,12,13 115:36,40,44,48 116:36,44 117:40,48 124:149,153,157,161 125:149,153,157,161,165 126:149,157 127:153,161 128:36,40,44,48 130:36,40,44,48
+2018-10-16 15:52:52.971 12606-12606/? D/wpa_supplicant: P2P: cli_channels:
+2018-10-16 15:52:52.971 12606-12606/? D/wpa_supplicant: Notifying bssid changed to hidl control
+2018-10-16 15:52:52.974 12606-12606/? D/wpa_supplicant: EAPOL: External notification - portEnabled=0
+2018-10-16 15:52:52.974 12606-12606/? D/wpa_supplicant: EAPOL: SUPP_PAE entering state DISCONNECTED
+2018-10-16 15:52:52.974 12606-12606/? D/wpa_supplicant: EAPOL: Supplicant port status: Unauthorized
+2018-10-16 15:52:52.974 12606-12606/? D/wpa_supplicant: nl80211: Skip set_supp_port(unauthorized) while not associated
+2018-10-16 15:52:52.974 12606-12606/? D/wpa_supplicant: EAPOL: SUPP_BE entering state INITIALIZE
+2018-10-16 15:52:52.974 12606-12606/? D/wpa_supplicant: EAPOL: External notification - portValid=0
+2018-10-16 15:52:52.974 12606-12606/? E/wpa_supplicant: eap_proxy: eap_proxy_notify_config
+2018-10-16 15:52:52.974 12606-12606/? D/wpa_supplicant: nl80211: Data frame filter flags=0x0
+2018-10-16 15:52:52.974 12606-12606/? E/wpa_supplicant: nl80211: Failed to open /proc/sys/net/ipv4/conf/wlan0/drop_unicast_in_l2_multicast: No such file or directory
+2018-10-16 15:52:52.974 12606-12606/? E/wpa_supplicant: nl80211: Failed to set IPv4 unicast in multicast filter
+2018-10-16 15:52:52.975 12606-12606/? D/wpa_supplicant: wlan0: State: DISCONNECTED -> DISCONNECTED
+2018-10-16 15:52:52.975 12606-12606/? D/wpa_supplicant: nl80211: Set wlan0 operstate 0->0 (DORMANT)
+2018-10-16 15:52:52.975 12606-12606/? D/wpa_supplicant: netlink: Operstate: ifindex=23 linkmode=-1 (no change), operstate=5 (IF_OPER_DORMANT)
+2018-10-16 15:52:52.975 12606-12606/? D/wpa_supplicant: EAPOL: External notification - portEnabled=0
+2018-10-16 15:52:52.975 12606-12606/? D/wpa_supplicant: EAPOL: External notification - portValid=0
+2018-10-16 15:52:52.975 12606-12606/? E/wpa_supplicant: eap_proxy: eap_proxy_notify_config
+2018-10-16 15:52:52.975 12606-12606/? E/wpa_supplicant: eap_proxy: eap_proxy_notify_config
+2018-10-16 15:52:52.975 12606-12606/? D/wpa_supplicant: RTM_NEWLINK: ifi_index=23 ifname=wlan0 wext ifi_family=0 ifi_flags=0x1043 ([UP][RUNNING])
+2018-10-16 15:52:52.976 12606-12606/? D/wpa_supplicant: RTM_NEWLINK: ifi_index=23 ifname=wlan0 operstate=2 linkmode=1 ifi_family=0 ifi_flags=0x1003 ([UP])
+2018-10-16 15:52:52.976 12606-12606/? D/wpa_supplicant: nl80211: Drv Event 48 (NL80211_CMD_DISCONNECT) received for wlan0
+2018-10-16 15:52:52.976 12606-12606/? D/wpa_supplicant: nl80211: Ignore disconnect event triggered during reassociation
+2018-10-16 15:52:52.977 12606-12606/? D/wpa_supplicant: Registering network to hidl control: 0
+2018-10-16 15:52:53.015 12606-12606/? E/wpa_supplicant: eap_proxy: eap_proxy_notify_config
+2018-10-16 15:52:53.015 12606-12606/? D/wpa_supplicant: wlan0: Scan results matching the currently selected network
+2018-10-16 15:52:53.016 12606-12606/? D/wpa_supplicant: 0: f4:9e:ef:50:8c:77 ssid='Isengard' wpa_ie_len=0 rsn_ie_len=20 wapi_ie_len=0 caps=0x511
+2018-10-16 15:52:53.016 12606-12606/? D/wpa_supplicant: 1: f4:9e:ef:50:8c:73 ssid='The Shire' wpa_ie_len=0 rsn_ie_len=20 wapi_ie_len=0 caps=0x511
+2018-10-16 15:52:53.016 12606-12606/? D/wpa_supplicant: wpa_supplicant_ssid_bss_match : wapi is null
+2018-10-16 15:52:53.016 12606-12606/? D/wpa_supplicant: wlan0: 1: f4:9e:ef:50:8c:73 freq=2412 level=-44 snr=45 est_throughput=65000
+2018-10-16 15:52:53.016 12606-12606/? D/wpa_supplicant: 2: 2c:dd:95:ce:74:75 ssid='INFINITUMFC1B_2.4' wpa_ie_len=0 rsn_ie_len=20 wapi_ie_len=0 caps=0x511
+2018-10-16 15:52:53.016 12606-12606/? D/wpa_supplicant: 3: 38:4c:90:ad:74:60 ssid='ARRIS-7462' wpa_ie_len=0 rsn_ie_len=20 wapi_ie_len=0 caps=0xc11
+2018-10-16 15:52:53.016 12606-12606/? D/wpa_supplicant: 4: 2c:dd:95:ce:74:79 ssid='INFINITUMFC1B_5' wpa_ie_len=0 rsn_ie_len=20 wapi_ie_len=0 caps=0x511
+2018-10-16 15:52:53.016 12606-12606/? D/wpa_supplicant: 5: f4:9e:ef:0d:f5:49 ssid='Valeriat_2.4' wpa_ie_len=0 rsn_ie_len=20 wapi_ie_len=0 caps=0x511
+2018-10-16 15:52:53.016 12606-12606/? D/wpa_supplicant: 6: 24:a4:3c:68:8d:2a ssid='MONTRER' wpa_ie_len=0 rsn_ie_len=20 wapi_ie_len=0 caps=0x411
+2018-10-16 15:52:53.016 12606-12606/? D/wpa_supplicant: 7: 44:d9:e7:42:07:0c ssid='ICF2' wpa_ie_len=22 rsn_ie_len=0 wapi_ie_len=0 caps=0x411
+2018-10-16 15:52:53.016 12606-12606/? D/wpa_supplicant: 8: c4:e9:84:c7:88:76 ssid='SALA' wpa_ie_len=26 rsn_ie_len=24 wapi_ie_len=0 caps=0x431
+2018-10-16 15:52:53.016 12606-12606/? D/wpa_supplicant: 9: f4:9e:ef:b8:9e:f1 ssid='AMOR_5' wpa_ie_len=0 rsn_ie_len=20 wapi_ie_len=0 caps=0x511
+2018-10-16 15:52:53.016 12606-12606/? D/wpa_supplicant: 10: c8:d9:d2:4a:42:bb ssid='DIRECT-BA-HP DeskJet 2600 series' wpa_ie_len=0 rsn_ie_len=20 wapi_ie_len=0 caps=0x511
+2018-10-16 15:52:53.016 12606-12606/? D/wpa_supplicant: 11: b8:27:eb:df:e4:b5 ssid='Ayla-b827ebdfe4b5' wpa_ie_len=0 rsn_ie_len=0 wapi_ie_len=0 caps=0x501
+2018-10-16 15:52:53.016 12606-12606/? D/wpa_supplicant: 12: 60:f1:89:d8:64:58 ssid='Ayla-60f189d86458' wpa_ie_len=0 rsn_ie_len=0 wapi_ie_len=0 caps=0x401
+2018-10-16 15:52:53.016 12606-12606/? D/wpa_supplicant: wlan0: Selecting BSS from priority group 0
+2018-10-16 15:52:53.016 12606-12606/? D/wpa_supplicant: wlan0: 0: f4:9e:ef:50:8c:77 ssid='Isengard' wpa_ie_len=0 rsn_ie_len=20 caps=0x511 level=-60 freq=5320  wps
+2018-10-16 15:52:53.016 12606-12606/? D/wpa_supplicant: 0: f4:9e:ef:50:8c:77 ssid='Isengard' wpa_ie_len=0 rsn_ie_len=20 wapi_ie_len=0 caps=0x511
+2018-10-16 15:52:53.016 12606-12606/? D/wpa_supplicant: wlan0:    skip - SSID mismatch
+2018-10-16 15:52:53.016 12606-12606/? D/wpa_supplicant: wlan0: 1: f4:9e:ef:50:8c:73 ssid='The Shire' wpa_ie_len=0 rsn_ie_len=20 caps=0x511 level=-44 freq=2412  wps
+2018-10-16 15:52:53.016 12606-12606/? D/wpa_supplicant: 1: f4:9e:ef:50:8c:73 ssid='The Shire' wpa_ie_len=0 rsn_ie_len=20 wapi_ie_len=0 caps=0x511
+2018-10-16 15:52:53.017 12606-12606/? D/wpa_supplicant: wpa_supplicant_ssid_bss_match : wapi is null
+2018-10-16 15:52:53.017 12606-12606/? D/wpa_supplicant: wlan0:    selected based on RSN IE
+2018-10-16 15:52:53.017 12606-12606/? D/wpa_supplicant: wlan0:    selected BSS f4:9e:ef:50:8c:73 ssid='The Shire'
+2018-10-16 15:52:53.017 12606-12606/? D/wpa_supplicant: wlan0: Considering connect request: reassociate: 1  selected: f4:9e:ef:50:8c:73  bssid: 00:00:00:00:00:00  pending: 00:00:00:00:00:00  wpa_state: DISCONNECTED  ssid=0x78898daa00  current_ssid=0x78898daa00
+2018-10-16 15:52:53.017 12606-12606/? D/wpa_supplicant: wlan0: Request association with f4:9e:ef:50:8c:73
+2018-10-16 15:52:53.017 12606-12606/? D/wpa_supplicant: TDLS: TDLS is allowed in the target BSS
+2018-10-16 15:52:53.017 12606-12606/? D/wpa_supplicant: TDLS: TDLS channel switch allowed in the target BSS
+2018-10-16 15:52:53.017 12606-12606/? D/wpa_supplicant: wlan0: No ongoing scan/p2p-scan found to abort
+2018-10-16 15:52:53.017 12606-12606/? D/wpa_supplicant: wlan0: Add radio work 'connect'@0x7889830540
+2018-10-16 15:52:53.017 12606-12606/? D/wpa_supplicant: wlan0: First radio work item in the queue - schedule start immediately
+2018-10-16 15:52:53.020 12606-12606/? D/wpa_supplicant: wlan0: Starting radio work 'connect'@0x7889830540 after 0.003440 second wait
+2018-10-16 15:52:53.021 12606-12606/? I/wpa_supplicant: wlan0: Trying to associate with SSID 'The Shire'
+2018-10-16 15:52:53.024 12606-12606/? D/wpa_supplicant: wlan0: Cancelling scan request
+2018-10-16 15:52:53.024 12606-12606/? D/wpa_supplicant: wlan0: WPA: clearing own WPA/RSN IE
+2018-10-16 15:52:53.024 12606-12606/? D/wpa_supplicant: RSN: PMKSA cache search - network_ctx=0x78898daa00 try_opportunistic=0
+2018-10-16 15:52:53.024 12606-12606/? D/wpa_supplicant: RSN: Search for BSSID f4:9e:ef:50:8c:73
+2018-10-16 15:52:53.024 12606-12606/? D/wpa_supplicant: RSN: No PMKSA cache entry found
+2018-10-16 15:52:53.024 12606-12606/? D/wpa_supplicant: wlan0: RSN: using IEEE 802.11i/D9.0
+2018-10-16 15:52:53.024 12606-12606/? D/wpa_supplicant: wlan0: WPA: Selected cipher suites: group 16 pairwise 16 key_mgmt 2 proto 2
+2018-10-16 15:52:53.024 12606-12606/? D/wpa_supplicant: wlan0: WPA: clearing AP WPA IE
+2018-10-16 15:52:53.024 12606-12606/? D/wpa_supplicant: WPA: set AP RSN IE - hexdump(len=22): 30 14 01 00 00 0f ac 04 01 00 00 0f ac 04 01 00 00 0f ac 02 0c 00
+2018-10-16 15:52:53.024 12606-12606/? D/wpa_supplicant: wlan0: WPA: using GTK CCMP
+2018-10-16 15:52:53.024 12606-12606/? D/wpa_supplicant: wlan0: WPA: using PTK CCMP
+2018-10-16 15:52:53.024 12606-12606/? D/wpa_supplicant: wlan0: WPA: using KEY_MGMT WPA-PSK
+2018-10-16 15:52:53.024 12606-12606/? D/wpa_supplicant: wlan0: WPA: not using MGMT group cipher
+2018-10-16 15:52:53.024 12606-12606/? D/wpa_supplicant: WPA: Set own WPA IE default - hexdump(len=22): 30 14 01 00 00 0f ac 04 01 00 00 0f ac 04 01 00 00 0f ac 02 00 00
+2018-10-16 15:52:53.025 12606-12606/? D/wpa_supplicant: wlan0: Automatic auth_alg selection: 0x1
+2018-10-16 15:52:53.025 12606-12606/? D/wpa_supplicant: Added supported operating classes IE - hexdump(len=22): 3b 14 51 51 53 54 73 74 75 76 77 78 79 7a 7b 7c 7d 7e 7f 80 81 82
+2018-10-16 15:52:53.025 12606-12606/? D/wpa_supplicant: wlan0: State: DISCONNECTED -> ASSOCIATING
+2018-10-16 15:52:53.025 12606-12606/? D/wpa_supplicant: nl80211: Set wlan0 operstate 0->0 (DORMANT)
+2018-10-16 15:52:53.025 12606-12606/? D/wpa_supplicant: netlink: Operstate: ifindex=23 linkmode=-1 (no change), operstate=5 (IF_OPER_DORMANT)
+2018-10-16 15:52:53.025 12606-12606/? D/wpa_supplicant: Notifying state change event to hidl control: ASSOCIATING
+2018-10-16 15:52:53.037 12606-12606/? D/wpa_supplicant: wlan0: Determining shared radio frequencies (max len 2)
+2018-10-16 15:52:53.037 12606-12606/? D/wpa_supplicant: wlan0: Shared frequencies (len=0): completed iteration
+2018-10-16 15:52:53.037 12606-12606/? D/wpa_supplicant: P2P: Update channel list
+2018-10-16 15:52:53.037 12606-12606/? D/wpa_supplicant: P2P: channels: 81:1,2,3,4,5,6,7,8,9,10,11,12,13 115:36,40,44,48 116:36,44 117:40,48 124:149,153,157,161 125:149,153,157,161,165 126:149,157 127:153,161 128:36,40,44,48 130:36,40,44,48
+2018-10-16 15:52:53.037 12606-12606/? D/wpa_supplicant: P2P: cli_channels:
+2018-10-16 15:52:53.037 12606-12606/? D/wpa_supplicant: nl80211: Set mode ifindex 23 iftype 2 (STATION)
+2018-10-16 15:52:53.043 12606-12606/? D/wpa_supplicant: nl80211: Unsubscribe mgmt frames handle 0x888888f0010ca509 (mode change)
+2018-10-16 15:52:53.043 12606-12606/? D/wpa_supplicant: nl80211: Subscribe to mgmt frames with non-AP handle 0x7889842d80
+2018-10-16 15:52:53.044 12606-12606/? D/wpa_supplicant: nl80211: Key management set PSK
+2018-10-16 15:52:53.045 12606-12606/? D/wpa_supplicant: nl80211: Connect (ifindex=23)
+2018-10-16 15:52:53.045 12606-12606/? D/wpa_supplicant:   * bssid_hint=f4:9e:ef:50:8c:73
+2018-10-16 15:52:53.045 12606-12606/? D/wpa_supplicant:   * freq_hint=2412
+2018-10-16 15:52:53.045 12606-12606/? D/wpa_supplicant:   * SSID - hexdump(len=9): 54 68 65 20 53 68 69 72 65
+2018-10-16 15:52:53.045 12606-12606/? D/wpa_supplicant:   * IEs - hexdump(len=56): 30 14 01 00 00 0f ac 04 01 00 00 0f ac 04 01 00 00 0f ac 02 00 00 7f 0a 00 00 0a 02 01 40 00 00 ...
+2018-10-16 15:52:53.045 12606-12606/? D/wpa_supplicant:   * WPA Versions 0x2
+2018-10-16 15:52:53.045 12606-12606/? D/wpa_supplicant:   * pairwise=0xfac04
+2018-10-16 15:52:53.045 12606-12606/? D/wpa_supplicant:   * group=0xfac04
+2018-10-16 15:52:53.045 12606-12606/? D/wpa_supplicant:   * akm=0xfac02
+2018-10-16 15:52:53.045 12606-12606/? D/wpa_supplicant:   * Auth Type 0
+2018-10-16 15:52:53.053 12606-12606/? D/wpa_supplicant: nl80211: Connect request send successfully
+2018-10-16 15:52:53.053 12606-12606/? D/wpa_supplicant: wlan0: Setting authentication timeout: 10 sec 0 usec
+2018-10-16 15:52:53.053 12606-12606/? D/wpa_supplicant: EAPOL: External notification - EAP success=0
+2018-10-16 15:52:53.053 12606-12606/? D/wpa_supplicant: EAPOL: External notification - EAP fail=0
+2018-10-16 15:52:53.053 12606-12606/? D/wpa_supplicant: EAPOL: External notification - portControl=Auto
+2018-10-16 15:52:53.053 12606-12606/? E/wpa_supplicant: eap_proxy: eap_proxy_notify_config
+2018-10-16 15:52:53.053 12606-12606/? E/wpa_supplicant: eap_proxy: eap_proxy_allowed_method
+2018-10-16 15:52:53.053 12606-12606/? D/wpa_supplicant: wlan0: Do not parallelize radio work with connect
+2018-10-16 15:52:53.062 12606-12606/? D/wpa_supplicant: nl80211: set_p2p_powersave (legacy_ps=1 opp_ps=-1 ctwindow=-1)
+2018-10-16 15:52:53.066 12606-12606/? D/wpa_supplicant: wpa_driver_nl80211_driver_cmd BTCOEXMODE 2 len = 0, 4096
+2018-10-16 15:52:53.078 12606-12606/? D/wpa_supplicant: CTRL_IFACE monitor detached /data/misc/wifi/sockets/wpa_ctrl_906-218\x00
+2018-10-16 15:52:53.091 12606-12606/? D/wpa_supplicant: wpa_driver_nl80211_driver_cmd COUNTRY MX len = 0, 4096
+2018-10-16 15:52:53.096 12606-12606/? D/wpa_supplicant: wlan0: Event CHANNEL_LIST_CHANGED (28) received
+2018-10-16 15:52:53.096 12606-12606/? I/wpa_supplicant: wlan0: CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=MX
+2018-10-16 15:52:53.104 12606-12606/? D/wpa_supplicant: wlan0: Updating hw mode
+2018-10-16 15:52:53.107 12606-12606/? D/wpa_supplicant: nl80211: Regulatory information - country=MX (DFS-FCC)
+2018-10-16 15:52:53.107 12606-12606/? D/wpa_supplicant: nl80211: 2402-2482 @ 40 MHz 30 mBm
+2018-10-16 15:52:53.107 12606-12606/? D/wpa_supplicant: nl80211: 5170-5250 @ 80 MHz 24 mBm
+2018-10-16 15:52:53.107 12606-12606/? D/wpa_supplicant: nl80211: 5250-5330 @ 80 MHz 24 mBm (DFS)
+2018-10-16 15:52:53.107 12606-12606/? D/wpa_supplicant: nl80211: 5490-5730 @ 160 MHz 24 mBm (DFS)
+2018-10-16 15:52:53.107 12606-12606/? D/wpa_supplicant: nl80211: 5735-5835 @ 80 MHz 30 mBm
+2018-10-16 15:52:53.107 12606-12606/? D/wpa_supplicant: nl80211: 57240-63720 @ 2160 MHz 40 mBm
+2018-10-16 15:52:53.107 12606-12606/? D/wpa_supplicant: nl80211: Added 802.11b mode based on 802.11g information
+2018-10-16 15:52:53.107 12606-12606/? D/wpa_supplicant: p2p0: Updating hw mode
+2018-10-16 15:52:53.107 12606-12606/? D/wpa_supplicant: nl80211: Regulatory information - country=MX (DFS-FCC)
+2018-10-16 15:52:53.107 12606-12606/? D/wpa_supplicant: nl80211: 2402-2482 @ 40 MHz 30 mBm
+2018-10-16 15:52:53.107 12606-12606/? D/wpa_supplicant: nl80211: 5170-5250 @ 80 MHz 24 mBm
+2018-10-16 15:52:53.107 12606-12606/? D/wpa_supplicant: nl80211: 5250-5330 @ 80 MHz 24 mBm (DFS)
+2018-10-16 15:52:53.107 12606-12606/? D/wpa_supplicant: nl80211: 5490-5730 @ 160 MHz 24 mBm (DFS)
+2018-10-16 15:52:53.107 12606-12606/? D/wpa_supplicant: nl80211: 5735-5835 @ 80 MHz 30 mBm
+2018-10-16 15:52:53.107 12606-12606/? D/wpa_supplicant: nl80211: 57240-63720 @ 2160 MHz 40 mBm
+2018-10-16 15:52:53.107 12606-12606/? D/wpa_supplicant: nl80211: Added 802.11b mode based on 802.11g information
+2018-10-16 15:52:53.107 12606-12606/? D/wpa_supplicant: wlan0: Determining shared radio frequencies (max len 2)
+2018-10-16 15:52:53.107 12606-12606/? D/wpa_supplicant: wlan0: Shared frequencies (len=0): completed iteration
+2018-10-16 15:52:53.107 12606-12606/? D/wpa_supplicant: P2P: Update channel list
+2018-10-16 15:52:53.107 12606-12606/? D/wpa_supplicant: P2P: channels: 81:1,2,3,4,5,6,7,8,9,10,11,12,13 115:36,40,44,48 116:36,44 117:40,48 124:149,153,157,161 125:149,153,157,161,165 126:149,157 127:153,161 128:36,40,44,48 130:36,40,44,48
+2018-10-16 15:52:53.107 12606-12606/? D/wpa_supplicant: P2P: cli_channels:
+2018-10-16 15:52:53.108 12606-12606/? D/wpa_supplicant: RTM_NEWLINK: ifi_index=23 ifname=wlan0 wext ifi_family=0 ifi_flags=0x1003 ([UP])
+2018-10-16 15:52:53.108 12606-12606/? D/wpa_supplicant: RTM_NEWLINK: ifi_index=23 ifname=wlan0 wext ifi_family=0 ifi_flags=0x1003 ([UP])
+2018-10-16 15:52:53.108 12606-12606/? D/wpa_supplicant: RTM_NEWLINK: ifi_index=23 ifname=wlan0 operstate=5 linkmode=1 ifi_family=0 ifi_flags=0x11003 ([UP][LOWER_UP])
+2018-10-16 15:52:53.108 12606-12606/? D/wpa_supplicant: nl80211: Drv Event 46 (NL80211_CMD_CONNECT) received for wlan0
+2018-10-16 15:52:53.108 12606-12606/? D/wpa_supplicant: nl80211: Connect event (status=0 ignore_next_local_disconnect=0)
+2018-10-16 15:52:53.108 12606-12606/? D/wpa_supplicant: nl80211: Associated on 2412 MHz
+2018-10-16 15:52:53.108 12606-12606/? D/wpa_supplicant: nl80211: Associated with f4:9e:ef:50:8c:73
+2018-10-16 15:52:53.108 12606-12606/? D/wpa_supplicant: nl80211: Operating frequency for the associated BSS from scan results: 2412 MHz
+2018-10-16 15:52:53.108 12606-12606/? D/wpa_supplicant: nl80211: Associated on 2412 MHz
+2018-10-16 15:52:53.108 12606-12606/? D/wpa_supplicant: nl80211: Associated with f4:9e:ef:50:8c:73
+2018-10-16 15:52:53.108 12606-12606/? D/wpa_supplicant: nl80211: Set drv->ssid based on scan res info to 'The Shire'
+2018-10-16 15:52:53.108 12606-12606/? D/wpa_supplicant: wlan0: Event ASSOC (0) received
+2018-10-16 15:52:53.108 12606-12606/? D/wpa_supplicant: [WAPI] wpa_supplicant_event_assoc: wpa_s->current_ssid->wapi=0.
+2018-10-16 15:52:53.108 12606-12606/? D/wpa_supplicant: wlan0: Association info event
+2018-10-16 15:52:53.108 12606-12606/? D/wpa_supplicant: req_ies - hexdump(len=22): 30 14 01 00 00 0f ac 04 01 00 00 0f ac 04 01 00 00 0f ac 02 0c 00
+2018-10-16 15:52:53.108 12606-12606/? D/wpa_supplicant: resp_ies - hexdump(len=22): 30 14 01 00 00 0f ac 04 01 00 00 0f ac 04 01 00 00 0f ac 02 00 00
+2018-10-16 15:52:53.108 12606-12606/? D/wpa_supplicant: wlan0: freq=2412 MHz
+2018-10-16 15:52:53.108 12606-12606/? D/wpa_supplicant: WPA: set own WPA/RSN IE - hexdump(len=22): 30 14 01 00 00 0f ac 04 01 00 00 0f ac 04 01 00 00 0f ac 02 0c 00
+2018-10-16 15:52:53.108 12606-12606/? D/wpa_supplicant: FT: Stored MDIE and FTIE from (Re)Association Response - hexdump(len=0):
+2018-10-16 15:52:53.108 12606-12606/? D/wpa_supplicant: wlan0: State: ASSOCIATING -> ASSOCIATED
